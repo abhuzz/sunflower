@@ -1,6 +1,6 @@
-# sunflower
+# Bloc Integration with API
 
-A new Flutter project.
+UI has horizontal and vertical scrolling.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<img src="/assets/1.png" width=250 height=530 align="left"></img>
+<img src="/assets/2.png" width=250 height=530 align="left"></img>
+<img src="/assets/3.png" width=250 height=530 align="left"></img>
