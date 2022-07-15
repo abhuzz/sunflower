@@ -29,7 +29,7 @@ class _GroupListState extends State<GroupList> {
               return const Center(child: Text('no Groups'));
             }
             return ListView.builder(
-              shrinkWrap: true,
+              // shrinkWrap: true,
               physics: const ScrollPhysics(),
               itemBuilder: (BuildContext context, int index) {
                 return GroupListItem(group: state.groups[index]);

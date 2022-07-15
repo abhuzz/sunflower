@@ -7,6 +7,8 @@ import 'package:sunflower/widgets/group_list_item.dart';
 import 'package:sunflower/widgets/team_list_item.dart';
 
 class TeamList extends StatefulWidget {
+  const TeamList({Key? key}) : super(key: key);
+
   @override
   _TeamListState createState() => _TeamListState();
 }
